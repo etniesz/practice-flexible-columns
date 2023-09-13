@@ -33,7 +33,7 @@ Usando el HTML proporcionado a continuación y reutilizando las clases .row y .c
 </div>
 ```
 
-### Parte III
+## Parte III
 
 Usando el HTML proporcionado a continuación y reutilizando las clases .row y .col-2, de antes, crea una clase .col-3 dentro de nuestro CSS. Queremos que aparezca como un diseño de 2/5 del espacio libre y 3/5 del espacio libre.
 
