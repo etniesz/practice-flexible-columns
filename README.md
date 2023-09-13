@@ -7,9 +7,7 @@ Utilizando lo que hemos aprendido sobre la propiedad flex, vuelve a crear el sig
 -   .col-2
 -   .col-3
 
-<video width="320" height="240" controls>
-  <source src="https://assets.codingdojo.com/boomyeah2015/codingdojo/curriculum/content/chapter/columns-edit.mp4" type="video/mp4">
-</video>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://assets.codingdojo.com/boomyeah2015/codingdojo/curriculum/content/chapter/columns-edit.mp4)
 
 ## Parte I
 
