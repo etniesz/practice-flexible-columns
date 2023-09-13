@@ -1,0 +1,30 @@
+.row {
+	display: flex;
+	flex-direction: row;
+	gap: 15px;
+	margin-bottom: 15px;
+}
+
+.col {
+	background-color: rgb(99, 201, 167);
+	padding: 15px;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	flex: 1;
+}
+
+.col-2 {
+	background-color: rgb(99, 201, 167);
+	padding: 15px;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	flex: 2;
+}
+
+.col-3 {
+	background-color: rgb(99, 201, 167);
+	padding: 15px;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	flex: 3;
+}
